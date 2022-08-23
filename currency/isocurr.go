@@ -1,4 +1,4 @@
-package isocurr
+package currency
 
 import "fmt"
 
