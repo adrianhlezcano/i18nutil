@@ -3,10 +3,10 @@ package currency
 import "fmt"
 
 type Currency struct {
-    entity string
-    name   string
-    code   string
-    minor_unit int
+    Entity string
+    Name   string
+    Code   string
+    Minor_unit int
 }
 
 var argCurr = &Currency{"ARGENTINA", "Argentine Peso", "ARS", 2}
